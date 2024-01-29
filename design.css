@@ -1,0 +1,19 @@
+body,html{
+    height:100%;
+
+}
+
+/* Custom styles if needed */
+.timer-display {
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Courier New', monospace;
+}
+
+footer{
+    position:fixed;
+    
+    bottom: 100;
+    width: 100%
+}
+
